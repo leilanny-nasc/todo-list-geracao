@@ -13,7 +13,7 @@ body{
     background-color: #EFEFEF;
 }
 header{
-    background-color: blueviolet;
+    background-color: rgb(43, 226, 43);
     padding: 16px 120px;
 }
 header input {
@@ -34,7 +34,7 @@ header input {
 }
 #tarefas h2 button{
     height: 46px;
-    background-color: blueviolet;
+    background-color: rgb(34, 188, 34);
     color: white;
     font-size: 12px;
     font-weight: bold;
@@ -45,8 +45,8 @@ header input {
     cursor: pointer;
     transition-duration: 200ms;
 }
-#tarefas h2 button::hover{
-    background-color: rgb(108,34,177);
+#tarefas h2 button:hover{
+    background-color: rgb(43, 226, 43);
 }
 #tarefas h6{
     text-align: center;
@@ -82,7 +82,7 @@ header input {
     fill: #999;
 }
 #tarefas ul li .actions box-icon:hover{
-    fill: blueviolet;
+    fill: rgb(43, 226, 43);
 }
 #overlay{
     width: 100%;
