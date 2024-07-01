@@ -1,0 +1,15 @@
+{
+  "name": "mini-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "api": "npx json-server api.json --wacth --port 3000"
+  },
+  "keywords": [],
+  "author": "Leilanny",
+  "license": "ISC",
+  "description": "Mini projeto em JS",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
